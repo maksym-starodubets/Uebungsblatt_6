@@ -2,8 +2,7 @@ package h1;
 
 public class H1_main {
     public static void main(String[] args) {
-        int [] a = {1,2,3}, b={3, 2,1};
-        System.out.println(isMirrorArray(b,a));
+
     }
 
     public static boolean isMirrorArray (int [] a, int [] b){

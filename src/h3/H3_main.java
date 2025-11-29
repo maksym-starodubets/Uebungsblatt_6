@@ -2,8 +2,6 @@ package h3;
 
 public class H3_main {
     public static void main(String[] args) {
-        int[] a = {1, 2, 2}, b = {2, 2, 1};
-        System.out.println(compareArraysVal(b, a));
     }
 
     public static boolean compareArraysVal(int[] a, int[] b) {
